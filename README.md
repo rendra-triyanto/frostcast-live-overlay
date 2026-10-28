@@ -101,25 +101,6 @@ It runs **100% locally on `127.0.0.1:3000`** with **zero API keys required**, in
 
 ---
 
-### 🛠️ Pengembangan Lokal dari Kode Sumber (Build from Source)
-
-```bash
-# 1. Clone repositori ini
-git clone https://github.com/USERNAME_ANDA/frostcast-live-overlay.git
-cd frostcast-live-overlay
-
-# 2. Pasang dependensi paket
-npm install
-
-# 3. Jalankan server pengembangan lokal (http://localhost:3000)
-npm run dev
-
-# 4. Bangun bundel produksi
-npm run build
-```
-
----
-
 <div align="center">
   <sub>Dikembangkan oleh <strong>FrostBlue (@FrostBluefps)</strong> • FrostCast Dock Live Overlay Studio v3.2.9</sub>
 </div>
